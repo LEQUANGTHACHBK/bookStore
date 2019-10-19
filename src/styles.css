@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+.nutphai {
+  float: right;
+}
+menu {
+  padding-inline-start: 0px !important;
+}
